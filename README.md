@@ -1,2 +1,3 @@
-# final-project-dumpy
-final-project-dumpy created by GitHub Classroom
+# College Dropout Prediction 
+
+## Overview
