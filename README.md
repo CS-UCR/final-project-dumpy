@@ -40,6 +40,8 @@ Some things to note about our dataset:
     
     from aequitas.preprocessing import preprocess_input_df
     
+    from aequitas.plotting import Plot
+    
 
 ## Challenges
 
