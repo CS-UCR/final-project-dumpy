@@ -21,6 +21,8 @@ Some things to note about our dataset:
   
   import statsmodels
   
+  import scikit-learn
+  
   from sklearn.feature_selection import mutual_info_classif
   
   from sklearn.model_selection import train_test_split
