@@ -49,6 +49,8 @@ Some things to note about our dataset:
 
 ## Conclusion
 
+After running different correlation methods and classifiers, we found that the Curricular units 2nd sem (approved), Curricular units 1st sem (approved), and Curricular units 2nd sem (grade) columns were the most correlation/influential in a students target column variable (dropout or graduate).
+
 After our analysis through Aequitas, we found that when we analyzed the data frame with all protected attributes including “Age at enrollment” then the overall fairness report shows that that the dataset is unfair.
 
 Whereas when we ran an analysis excluding “Age at enrollment” then the overall fairness shows that the dataset is fair and passes all parity test.
