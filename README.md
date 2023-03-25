@@ -19,6 +19,12 @@ Some things to note about our dataset:
   
   import numpy as np
   
+  import statsmodels
+  
+  from sklearn.feature_selection import mutual_info_classif
+  
+  from sklearn.model_selection import train_test_split
+  
   import matplotlib
   
   import matplotlib.pyplot as plt
