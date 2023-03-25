@@ -12,7 +12,7 @@ Some things to note about our dataset:
 
 ## Installing Packages (Jupyter on VSCode)
 
-- run %pip install pandas numpy statsmodels matplotlib scikit-learn seaborn --user
+- %pip install pandas numpy statsmodels matplotlib scikit-learn seaborn --user
 - import math
 
   import pandas as pd
